@@ -1,10 +1,10 @@
 from distutils.core import setup
 
-version = '0.0.2'
+version = '0.0.3'
 
-setup(name='dnutils',
+setup(name='dn757657_utils',
       version=version,
-      packages=['dn_docoptutils'],
+      packages=['dn_docoptutils', 'dn_fileutils'],
       license='MIT',
       description='personal utility funcs',
       author='Dan',
