@@ -10,7 +10,7 @@ setup(name='dnutils',
       author='Dan',
       author_email='daniel.js.campbell@gmail.com',
       url='https://github.com/dn757657/dn_utils.git',
-      download_url='https://github.com/dn757657/ct_data/archive/refs/tags/' + version + '.tar.gz',
+      download_url='https://github.com/dn757657/dnutils/archive/refs/tags/' + version + '.tar.gz',
       keywords=['utility'],
       install_requires=[
       ],
